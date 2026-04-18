@@ -1,7 +1,7 @@
 # Equity Portfolio Optimisation with Net Zero Objectives
 
 **Green Finance: Risk and Portfolio Management** — ENSAE Paris, Institut Polytechnique de Paris  
-*Supervisor: Peter Tankov*
+*Supervisor: Peter Tankov & Thierry Roncalli*
 
 ---
 
